@@ -1,3 +1,3 @@
 # NetflixAnalysis
 
-A deep dive into the Netflix's movies and shows library. 
+Analysis of Netflix dataset available on Kaggle using pandas, numpy and seaborn to gain useful market insights for content creators.
