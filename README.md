@@ -1,3 +1,3 @@
 # NetflixAnalysis
 
-Analysis of Netflix dataset available on Kaggle using pandas, numpy and seaborn to gain useful market insights for content creators.
+Analysis of Netflix dataset of more than 8,000 movies and shows using pandas, NumPy and seaborn to gain useful market insights and statistical analysis for content creators
